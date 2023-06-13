@@ -1,0 +1,19 @@
+{
+  "name": "intento2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-dev server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "node-dev": "^8.0.0",
+    "twilio": "^4.11.2",
+    "uuid": "^9.0.0"
+  }
+}
